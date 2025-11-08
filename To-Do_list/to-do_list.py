@@ -1,4 +1,4 @@
-#Created a to do list using python. 
+#Created a to do list using python. TO-DO LIST
 
 def main():
     tasks=[]
